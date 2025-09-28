@@ -90,7 +90,7 @@ Based on real borehole data testing:
 
 ### Success Case - Complex Crack Network Recognition
 
-The following demonstrates the system's performance on complex crack networks:
+The following demonstrates the performance on complex crack networks:
 
 **Original Image → Processing Results**
 
@@ -100,13 +100,12 @@ The following demonstrates the system's performance on complex crack networks:
 
 **Performance Analysis:**
 - ✅ **Complete Crack Network Recognition**: Successfully detects main crack structures and branches
-- ✅ **Precise Boundaries**: Clear crack boundaries with complete detail preservation
-- ✅ **Good Continuity**: Coherent crack paths without obvious breaks
+- ✅ **Precise Boundaries**: Clear crack boundaries with complete detail preservation  
 - ✅ **False Detection Control**: Effective suppression of rock texture interference
 
 ### Algorithm Improvement Opportunities & Collaboration Invitation
 
-Although the system can handle most scenarios, there is still room for optimization. The following shows a challenging case:
+Although it can handle some scenarios, there is still room for optimization. The following shows a challenging case:
 
 **Challenge Case Analysis**
 
